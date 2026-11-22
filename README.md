@@ -1,7 +1,11 @@
 
 <h1>Hi, I'm Marianna, </h1>
 
-<h2>Here are some AWS Security Projects:</h2>
+<h2>Here are some of my IT & Security Projects:</h2>
+
+- <b>Azure Active Directory Help Desk Lab (Azure, Windows Server, Active Directory, DNS, RDP)</b>
+  - [Azure Active Directory Help Desk Lab](https://github.com/malbright345/Azure-Active-Directory-Help-Desk-Lab)
+
 
 - <b>Demonstrating Security Flaws in OAuth 2.0 Implicit Grant (API Gateway, Lambda Function, AWS Cognito, JWT.io, Postman API Platform)</b>
   - [Secure AWS API Gateway with Amazon Cognito ](https://github.com/malbright345/API-Gateway-Security-Project)
